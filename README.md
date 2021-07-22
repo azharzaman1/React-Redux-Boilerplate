@@ -1,5 +1,19 @@
 # React-Redux-Boilerplate
 
+# How to get Started
+You can consider this regular React project created with Create-React-App method, with auto integrated React Redux template.
+Just Clone this repo by 
+
+```
+git clone https://github.com/TheAzharZaman/React-Redux-Boilerplate.git
+```
+then use this command to install required packages and dependencies
+
+```
+npm install
+```
+Youi are good to go :)
+
 ## Creating Store
 This biolerplate use @reduxjs/toolkit@1.5.0 and built on slices concept as one of the slice:
 
