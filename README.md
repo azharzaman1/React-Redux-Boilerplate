@@ -2,12 +2,19 @@
 
 # How to get Started
 You can consider this regular React project created with Create-React-App method, with auto integrated React Redux template.
+
 Just Clone this repo by 
 
 ```
 git clone https://github.com/TheAzharZaman/React-Redux-Boilerplate.git
 ```
-then use this command to install required packages and dependencies
+Navigate to download folder by:
+
+```
+cd React-Redux-Boilerplate
+```
+
+Then use this command to install required packages and dependencies
 
 ```
 npm install
